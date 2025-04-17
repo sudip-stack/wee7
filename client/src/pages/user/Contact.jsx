@@ -32,7 +32,7 @@ function Contact() {
             {/* Office Info */}
             <div className="bg-blue-50 rounded-xl p-6 border border-blue-100 hover:shadow-lg transition">
               <h2 className="text-2xl font-semibold text-blue-600 mb-2">Head Office</h2>
-              <p className="text-gray-600">FastRide Rentals Pvt. Ltd.</p>
+              <p className="text-gray-600">Rent a Ride Pvt. Ltd.</p>
               <p className="text-gray-600">123 Main Street, Kathmandu 44600, Nepal</p>
             </div>
 
@@ -40,7 +40,7 @@ function Contact() {
             <div className="bg-green-50 rounded-xl p-6 border border-green-100 hover:shadow-lg transition">
               <h2 className="text-2xl font-semibold text-green-600 mb-2">Customer Support</h2>
               <p className="text-gray-600">Phone: +977-1-5555555</p>
-              <p className="text-gray-600">Email: support@fastriderentals.com</p>
+              <p className="text-gray-600">Email: support@rentaride.com</p>
               <p className="text-gray-600">Support Hours: 9:00 AM – 6:00 PM (Sunday - Friday)</p>
             </div>
 
@@ -50,23 +50,23 @@ function Contact() {
               <p className="text-gray-600">
                 Facebook:{" "}
                 <a
-                  href="https://facebook.com/fastriderentals"
+                  href="https://facebook.com/rentaride"
                   target="_blank"
                   rel="noreferrer"
                   className="text-blue-600 underline"
                 >
-                  /fastriderentals
+                  /rentaride
                 </a>
               </p>
               <p className="text-gray-600">
                 Instagram:{" "}
                 <a
-                  href="https://instagram.com/fastriderentals"
+                  href="https://instagram.com/rentaride"
                   target="_blank"
                   rel="noreferrer"
                   className="text-pink-500 underline"
                 >
-                  @fastriderentals
+                  @rentaride
                 </a>
               </p>
             </div>
